@@ -22,7 +22,8 @@
     "versionFirst": "4.8.7",
     "siteFonts": [],
     "uniqCompNum": 8,
-    "versionPublish": "4.8.7"
+    "versionPublish": "4.8.7",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -98,10 +99,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/meyx.4ix3jet-223x128.jpg",
               "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "alt": "Ippoterapia",
+              "link": "https://ippoterapia.kz",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
