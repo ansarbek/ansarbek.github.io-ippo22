@@ -16,12 +16,13 @@
         "subtitleFont": "Raleway",
         "textFont": "Raleway",
         "isRoundedButtons": false
-      }
+      },
+      "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.7",
     "siteFonts": [],
-    "uniqCompNum": 8,
+    "uniqCompNum": 12,
     "versionPublish": "4.8.7",
     "screenshot": "screenshot.png"
   },
@@ -95,7 +96,7 @@
             "fontColor": "#989898",
             "fontHoverColor": "#222"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FEATURES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HELP</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Tutorials</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content14-4\">Информация</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#social2-6\">Соц сети</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-8\">Контакты</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -125,34 +126,36 @@
             "timeout": 5,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/main-slide-image-3.jpg",
-                "active": true,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "innerImage": "@PROJECT_PATH@/assets/images/home-4.png",
-                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
-                "title": "Creative site",
-                "overlay": false,
-                "contentAlign": "left",
-                "text": "Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi. In a diam vehicula sed sollicitudin mattis",
-                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a><a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/main-slide-image-4.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kenny-webster-417544-unsplash-2000x1333.jpg",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
-                "innerImage": "@PROJECT_PATH@/assets/images/home-4.png",
+                "innerImage": "@PROJECT_PATH@/assets/images/olia-nayda-621609-unsplash-2000x3000.jpg",
                 "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
-                "title": "Creative site",
-                "overlay": false,
+                "title": "Иппотерапия",
+                "overlay": true,
                 "contentAlign": "left",
-                "text": "Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi. In a diam vehicula sed sollicitudin mattis",
-                "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a><a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">download now</a>"
+                "text": "- это использование лошади в терапевтических целях. ",
+                "buttons": "<a data-app-btn=\"true\" href=\"index.html#content14-4\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnMove\">Узнать больше</a>",
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/jez-timms-287590-unsplash-2000x1335.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "innerImage": "@PROJECT_PATH@/assets/images/ivana-cajina-574535-unsplash-2000x3001.jpg",
+                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
+                "title": "Иппотерапия",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "(от др.-греч. ἵππος «лошадь») — метод реабилитации посредством лечебной верховой езды. ",
+                "buttons": "<a data-app-btn=\"true\" href=\"index.html#content14-4\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnMove\">Узнать больше</a>",
+                "alt": ""
               }
             ]
           },
@@ -164,101 +167,6 @@
           ],
           "_name": "header3",
           "_anchor": "header3-2"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showList": true,
-            "autoplay": true,
-            "timeout": 5,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showBullets": true,
-            "bgColor": "#fff",
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/industry3.jpg",
-                "active": true,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
-                "title": "Creative site",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi. In a diam vehicula sed sollicitudin mattis",
-                "buttons": "<a href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\" data-app-edit=\"content\">learn more</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/industry4.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
-                "title": "Creative site",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi. In a diam vehicula sed sollicitudin mattis",
-                "buttons": "<a href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\" data-app-edit=\"content\">learn moar</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/industry5.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
-                "title": "Creative site",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi. In a diam vehicula sed sollicitudin mattis",
-                "buttons": "<a href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\" data-app-edit=\"content\">learn moar</a>"
-              }
-            ]
-          },
-          "articleLayout": false,
-          "arrowLeft": "@PROJECT_PATH@/assets/images/arrow-left.svg",
-          "arrowRight": "@PROJECT_PATH@/assets/images/arrow-right.svg",
-          "title": "About company",
-          "text": "Ut euismod odio metus, non volutpat elit varius eu. Sed blandit ligula id sodales hendrerit. Vivamus molestie massa a lacus feugiat, sit amet interdum diam laoreet very strong somthinh",
-          "buttons": "<a href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\" data-app-edit=\"content\">learn more</a>",
-          "media1": {
-            "image": {
-              "class": "mbr-figure__img",
-              "src": "@PROJECT_PATH@/assets/images/unit-item-1.jpg",
-              "active": true
-            }
-          },
-          "title1": "Sed blandit ligula",
-          "text1": "Ut euismod odio metus, non volutpat elit varius eu. Sed blandit mus molestie",
-          "media2": {
-            "image": {
-              "class": "mbr-figure__img",
-              "src": "@PROJECT_PATH@/assets/images/unit-item-2.jpg",
-              "active": true
-            }
-          },
-          "title2": "Sed blandit ligula",
-          "text2": "Ut euismod odio metus, non volutpat elit varius eu. Sed blandit mus molestie",
-          "media3": {
-            "image": {
-              "class": "mbr-figure__img",
-              "src": "@PROJECT_PATH@/assets/images/unit-item-3.jpg",
-              "active": true
-            }
-          },
-          "title3": "Sed blandit ligula",
-          "text3": "Ut euismod odio metus, non volutpat elit varius eu. Sed blandit mus molestie",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider4",
-          "_anchor": "slider4-3"
         },
         {
           "_params": {
@@ -298,78 +206,84 @@
           },
           "media1": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont",
+              "linkInNewWindow": false,
               "name": "target",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": 0
             }
           },
           "media2": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont",
-              "name": "telescope",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
+              "linkInNewWindow": false,
+              "name": "like",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0
             }
           },
           "media3": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont",
+              "linkInNewWindow": false,
               "name": "strategy",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": 0
             }
           },
           "media4": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont",
-              "name": "trophy",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
+              "linkInNewWindow": false,
+              "name": "clock",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0
             }
           },
           "media5": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont",
-              "name": "lightbulb",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
+              "linkInNewWindow": false,
+              "name": "question",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0
             }
           },
           "media6": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont",
-              "name": "presentation",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "family": "et-line"
+              "linkInNewWindow": false,
+              "name": "sad-face",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "",
+              "size": 0
             }
           },
           "title": "Our work - it is your stability",
           "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit quisque elementum volutpat massa ac interdum velit imperdiet vel lacinia massa viverra dolor quis congue pellentesque.",
-          "title1": "target market",
-          "title2": "start up projects",
-          "title3": "marketing strategy",
-          "title4": "creative compaings",
-          "title5": "innovation ideas",
-          "title6": "business analysis",
-          "text1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente unde quibusdam, laborum dolor nulla libero repudiandae facilis totam asperiores exercitationem quam, voluptatibus reiciendis, illum voluptate modi excepturi aspernatur fugit possimus nisi autem dolore. Molestias quae dolor quisquam et debitis cum neque rerum. Tempora, et provident iste enim fugiat, sit nesciunt tempore magnam maiores perferendis repudiandae rerum, inventore iure quae aut?",
-          "text2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente unde quibusdam, laborum dolor nulla libero repudiandae facilis totam asperiores exercitationem quam, voluptatibus reiciendis, illum voluptate modi excepturi aspernatur fugit possimus nisi autem dolore. Molestias quae dolor quisquam et debitis cum neque rerum. Tempora, et provident iste enim fugiat, sit nesciunt tempore magnam maiores perferendis repudiandae rerum, inventore iure quae aut?",
-          "text3": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente unde quibusdam, laborum dolor nulla libero repudiandae facilis totam asperiores exercitationem quam, voluptatibus reiciendis, illum voluptate modi excepturi aspernatur fugit possimus nisi autem dolore. Molestias quae dolor quisquam et debitis cum neque rerum. Tempora, et provident iste enim fugiat, sit nesciunt tempore magnam maiores perferendis repudiandae rerum, inventore iure quae aut?",
-          "text4": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente unde quibusdam, laborum dolor nulla libero repudiandae facilis totam asperiores exercitationem quam, voluptatibus reiciendis, illum voluptate modi excepturi aspernatur fugit possimus nisi autem dolore. Molestias quae dolor quisquam et debitis cum neque rerum. Tempora, et provident iste enim fugiat, sit nesciunt tempore magnam maiores perferendis repudiandae rerum, inventore iure quae aut?",
-          "text5": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente unde quibusdam, laborum dolor nulla libero repudiandae facilis totam asperiores exercitationem quam, voluptatibus reiciendis, illum voluptate modi excepturi aspernatur fugit possimus nisi autem dolore. Molestias quae dolor quisquam et debitis cum neque rerum. Tempora, et provident iste enim fugiat, sit nesciunt tempore magnam maiores perferendis repudiandae rerum, inventore iure quae aut?",
-          "text6": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente unde quibusdam, laborum dolor nulla libero repudiandae facilis totam asperiores exercitationem quam, voluptatibus reiciendis, illum voluptate modi excepturi aspernatur fugit possimus nisi autem dolore. Molestias quae dolor quisquam et debitis cum neque rerum. Tempora, et provident iste enim fugiat, sit nesciunt tempore magnam maiores perferendis repudiandae rerum, inventore iure quae aut?",
+          "title1": "Психологическое влияние иппотерапии",
+          "title2": "Физическое влияние иппотерапии",
+          "title3": "ПОКАЗАНИЯ К ПРИМЕНЕНИЮ",
+          "title4": "Сколько длятся занятия?\n",
+          "title5": "С какого возраста можно заниматься?\n",
+          "title6": "ПРОТИВОПОКАЗАНИЯ ДЛЯ ЗАНЯТИЙ ИППОТЕРАПИЕЙ",
+          "text1": "Во время езды в седле человек подчиняется ритму, заданному скакуном. Это делает всадника в некоторой степени зависимым от животного, что непроизвольно откладывается в подсознании и учит нас считаться с окружающими. Во время прогулки человек и лошадь — равноценные партнеры, а иногда даже друзья. Верховая езда развивает чувство ответственности за партнера.\n<br>Иппотерапия чрезвычайно полезна грубым, вспыльчивым и агрессивным, а также суетливым и через чур подвижным людям. Регулярные сеансы иппотерапии делают их более спокойными. Кроме того, лечебная езда верхом на лошади рекомендуется при болезнях неврологической этиологии, в частности, синдроме Дауна, аутизме, миопатии Дюшена, полиомелите, сенсорным расстройствах, астеническом неврозе и др.",
+          "text2": "Во время верховой езды лошадь передает всаднику от 90 до 110 двигательных импульсов каждые 60 секунд. Сидя верхом в седле, человек пребывает в неустойчивом положении и постоянно воспринимает толчки от скакуна — это обеспечивает массаж всех внутренних органов.\n<br>Во время езды верхом все группы мышц всадника попеременно расслабляются и сокращаются. При неспешной езде нагрузка на мышечный аппарат человека сравнима с нагрузкой при ходьбе в обычном темпе. Кроме того, при езде верхом наездник должен постоянно контролировать центр тяжести, при этом усиленно работает его вестибулярный аппарат. Все это обязывать держать идеальную осанку.<br>",
+          "text3": "Иппотерапия применяется для реабилитации пациентов с неврологическими и другими нарушениями, такими как аутизм, церебральный паралич (детский и взрослый), артрит, рассеянный склероз, черепно-мозговая травма, инсульт, травмы спинного мозга, различные формы двигательной расторможенности, дети с дефицитом внимания и гиперактивностью, различные формы логоневрозов и других речевых нарушений, поражения органов чувств (слепота, глухота), сколиозы 1 и 2 степени, остеохондрозы, радикулиты и др. м<br>",
+          "text4": "Лечебный сеанс длится не более 15 минут. Как правило, ребенок устает уже за 7-10 минут, особенно в первый раз. На следующий день после такого массажа все тело болит, растягиваются связки, мышцы и сухожилия, но затем человек привыкает к нагрузке.\n<br>Детям мы советует заниматься не более двух раз в неделю. После занятий дети и взрослые общаются с лошадьми, гладят, кормят, разговаривают с ними.\n<br>",
+          "text5": "Бывают случаи, когда ребенок не держит голову в 6-7 месяцев. Когда его сажают на лошадь, она буквально заставляет и учит малыша держать голову. Если приводят детей с ДЦП возрастом до одного годика, то можно добиться каких-то успешных результатов в лечении, после года – намного сложнее.\n<br>Иппотерапия – это как БАДы к вашему основному лечению. Всех эффектов иппотерапии не перечесть, но чтобы поверить в это, достаточно прийти на занятие и увидеть счастливые глаза ребенка, сидящего верхом на лошади.<br>",
+          "text6": "гемофилия, ломкость костей (остеопороз, остеомиелит), аллергия на лошадиную шерсть, эпилепсия, заболевания почек. ",
           "_tags": [
             "Theme"
           ],
@@ -377,25 +291,53 @@
           "_anchor": "content14-4"
         },
         {
+          "_params": {
+            "showText": true,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image2.jpg"
+            },
+            "video": {
+              "src": "https://youtu.be/uu8KgwQAiRA",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            }
+          },
+          "text": "Развитие иппотерапии и адаптивного конного спорта в Актобе",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-b"
+        },
+        {
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#232323"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "48px"
             }
           },
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/social.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/thomas-peham-340216-unsplash-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlay": true,
+            "overlayColor": "#efefef",
+            "overlayOpacity": "0.7"
           },
-          "text": "<span>Follow us</span>",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> ",
+          "text": "<span>Мы в социальных сетях</span>",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/ippoterapiakz\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/ippoterapiakz\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/ippoterapiakz\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UC0VWhL9p2gQnpzeY3wnJvIQ\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/ippoterapiakz/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"https://vk.com/ippoterapiakz\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"https://ok.ru/ippoterapiakz\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-odnoklassniki\"></i></a> ",
           "_tags": [
             "Theme"
           ],
@@ -421,8 +363,10 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.75,
             "googleMap": {
-              "placeId": "ChIJtcaxrqlZwokRfwmmibzPsTU",
-              "address": "350 5th Ave, New York, NY 10118"
+              "address": "улица Набережная 1/2, Кандыагаш, Казахстан",
+              "placeId": "ChIJJTRrVXqFg0ERRYZaKqPNWh0",
+              "state": "ok",
+              "stateDetails": ""
             }
           },
           "media": {
@@ -440,25 +384,25 @@
               "loop": false
             }
           },
-          "title": "Do you have any questions?",
-          "text": "Lorem ipsum dolor sit amet, consec tetur adip iscing elit. Curabitur feugiat feugiat and brane in bibendum ",
-          "title1": "<span class=\"etl-icon icon-map-pin mbr-iconfont mbr-iconfont-btn\"></span>address",
+          "title": "Связатся с нами",
+          "text": "Будем рады сотрудничеству!\n<br>Нам очень важны ваши комментарии, пожелания и заметки об ошибках.",
+          "title1": "<span class=\"etl-icon icon-map-pin mbr-iconfont mbr-iconfont-btn\"></span>Адрес",
           "title2": "<span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\"></span>e-mail",
-          "title3": "<span class=\"etl-icon icon-phone mbr-iconfont mbr-iconfont-btn\"></span>phone",
-          "text1": "319 Clematis St.  Suite 100",
-          "text2": "<a href=\"mailto:sample@sample.com\">sample@sample.com</a>",
-          "text3": "<a href=\"tel:+138 (095) 6526 538\">+138 (095) 6526 538</a>",
+          "title3": "Телефон",
+          "text1": "улица Набережная 1/2, Кандыагаш, Казахстан",
+          "text2": "<a href=\"mailto:aqtobe@ippoterapia.kz\">aqtobe@ippoterapia.kz</a>",
+          "text3": "<a href=\"tel:+77478693645\">+77478693645</a>",
           "form": {
             "title": "MESSAGE",
-            "action": "riderland@gmail.com",
+            "action": "aqtobe@ippoterapia.kz",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Спасибо что написали нам! \nМы обязательно свяжемся с вами!"
             },
             "fields": {
               "name": {
                 "visible": true,
                 "title": "Name",
-                "customTitle": "Name*"
+                "customTitle": "ФИО*"
               },
               "email": {
                 "visible": true,
@@ -466,115 +410,22 @@
                 "customTitle": "Email*"
               },
               "phone": {
-                "visible": false,
+                "visible": true,
                 "title": "Phone",
-                "customTitle": "Phone"
+                "customTitle": "Тел.:"
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Сообщение"
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" type=\"submit\" role=\"button\">contact us</a>",
+          "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" type=\"submit\" role=\"button\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove\">Отправить</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "contacts2",
-          "_anchor": "contacts2-5"
-        },
-        {
-          "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "showMedia": true,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
-            "bgColorRadio": true,
-            "bgColor": "#212121",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.75
-          },
-          "media": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-white.png",
-              "active": true
-            }
-          },
-          "adress": "198 West 21th Street, Suite 721, New York NY5109 Pacific Coast Highway, Los Angeles CA",
-          "phone": "<a href=\"tel:+12 (3) 456 7890 123\" class=\"adr-link\"><b>Phone:</b> +12 (3) 456 7890 123</a>",
-          "email": "<a href=\"mailto:sample@sample.com\" class=\"adr-link\"><b>Email:</b> sample@sample.com</a>",
-          "titleNews": "our news",
-          "mediaNews1": {
-            "image": {
-              "class": "resp-img",
-              "src": "@PROJECT_PATH@/assets/images/foot-news-1.jpg",
-              "active": true
-            }
-          },
-          "textNews1": "<a href=\"http://mobirise.com\">Pellentesque interdum imper diet nibh in porttitor</a><span class=\"date\">15/05/16</span>",
-          "mediaNews2": {
-            "image": {
-              "class": "resp-img",
-              "src": "@PROJECT_PATH@/assets/images/foot-news-2.jpg",
-              "active": true
-            }
-          },
-          "textNews2": "<a href=\"http://mobirise.com\">Pellentesque interdum imper diet nibh in porttitor</a><span class=\"date\">15/05/16</span>",
-          "titleTweet": "lastest Links",
-          "tweet1": "<a href=\"http://mobirise.com\" class=\"adr-link\"><b>Alexander Sturg:</b> Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi.</a>",
-          "tweet2": "<a href=\"http://mobirise.com\" class=\"adr-link\"><b>Alexander Sturg:</b> Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi.</a>",
-          "tweet3": "<a href=\"http://mobirise.com\" class=\"adr-link\"><b>Alexander Sturg:</b> Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi.</a>",
-          "tweet4": "<a href=\"http://mobirise.com\" class=\"adr-link\"><b>Alexander Sturg:</b> Curabitur augue elit, egestas vitae erat sed, in the maximus sollicitudin nisi.</a>",
-          "titleInst": "photos",
-          "mediaInst1": {
-            "image": {
-              "class": "resp-img",
-              "src": "@THEME_PATH@/components/_images/inst_1.jpg"
-            }
-          },
-          "mediaInst2": {
-            "image": {
-              "class": "resp-img",
-              "src": "@THEME_PATH@/components/_images/inst_2.jpg"
-            }
-          },
-          "mediaInst3": {
-            "image": {
-              "class": "resp-img",
-              "src": "@THEME_PATH@/components/_images/inst_3.jpg"
-            }
-          },
-          "mediaInst4": {
-            "image": {
-              "class": "resp-img",
-              "src": "@THEME_PATH@/components/_images/inst_4.jpg"
-            }
-          },
-          "mediaInst5": {
-            "image": {
-              "class": "resp-img",
-              "src": "@THEME_PATH@/components/_images/inst_5.jpg"
-            }
-          },
-          "mediaInst6": {
-            "image": {
-              "class": "resp-img",
-              "src": "@THEME_PATH@/components/_images/inst_6.jpg"
-            }
-          },
-          "copyright": "2016 All rights reserved. Development by <a href=\"https://theme.express\">Theme.Express</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer3",
-          "_anchor": "footer3-7"
+          "_name": "contacts1",
+          "_anchor": "contacts1-8"
         }
       ]
     }
