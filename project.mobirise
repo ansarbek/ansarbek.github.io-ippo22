@@ -22,7 +22,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.7",
     "siteFonts": [],
-    "uniqCompNum": 15,
+    "uniqCompNum": 17,
     "versionPublish": "4.8.7",
     "screenshot": "screenshot.png"
   },
@@ -126,37 +126,34 @@
             "timeout": 5,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/kenny-webster-417544-unsplash-2000x1333.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "innerImage": "@PROJECT_PATH@/assets/images/olia-nayda-621609-unsplash-2000x3000.jpg",
-                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
-                "title": "Иппотерапия",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "- это использование лошади в терапевтических целях. ",
-                "buttons": "<a data-app-btn=\"true\" href=\"index.html#content14-4\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnMove\">Узнать больше</a>",
-                "alt": ""
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/jez-timms-287590-unsplash-2000x1335.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lily-banse-460652-unsplash-2000x1333.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
                 "playVideo": false,
-                "innerImage": "@PROJECT_PATH@/assets/images/ivana-cajina-574535-unsplash-2000x3001.jpg",
                 "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
                 "title": "Иппотерапия",
                 "overlay": true,
-                "contentAlign": "left",
-                "text": "(от др.-греч. ἵππος «лошадь») — метод реабилитации посредством лечебной верховой езды. ",
+                "contentAlign": "center",
+                "text": "(от др.-греч. ἵππος «лошадь») — метод реабилитации посредством лечебной верховой езды.",
+                "buttons": "<a data-app-btn=\"true\" href=\"index.html#content14-4\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnMove\">УЗНАТЬ БОЛЬШЕ</a>",
+                "alt": ""
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/daniel-cano-547327-unsplash-2000x1331.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=CluVGS25Kb0",
+                "title": "Иппотерапия",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "- это использование лошади в терапевтических целях.",
                 "buttons": "<a data-app-btn=\"true\" href=\"index.html#content14-4\" class=\"btn btn-primary\" role=\"button\" data-toolbar=\"-mbrBtnMove\">Узнать больше</a>",
-                "alt": "",
-                "overlayOpacity": "0.5"
+                "alt": ""
               }
             ]
           },
@@ -166,8 +163,8 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-2"
+          "_name": "header2",
+          "_anchor": "header2-g"
         },
         {
           "_params": {
@@ -322,7 +319,8 @@
               "color": "#232323"
             },
             ".mbr-section-title SPAN": {
-              "font-size": "48px"
+              "font-size": "48px",
+              "color": "#ffffff"
             }
           },
           "_params": {
@@ -338,7 +336,7 @@
             "overlayOpacity": "0.5"
           },
           "text": "<span>Мы в социальных сетях</span>",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/ippoterapiakz\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/ippoterapiakz\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/ippoterapiakz\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UC0VWhL9p2gQnpzeY3wnJvIQ\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/ippoterapiakz/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"https://vk.com/ippoterapiakz\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"https://ok.ru/ippoterapiakz\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-odnoklassniki\"></i></a> ",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/ippoterapiakz\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/ippoterapiakz\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-google\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UC0VWhL9p2gQnpzeY3wnJvIQ\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/ippoterapiakz/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>    <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"https://vk.com/ippoterapiakz\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"https://ok.ru/ippoterapiakz\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-odnoklassniki\"></i></a> ",
           "_tags": [
             "Theme"
           ],
