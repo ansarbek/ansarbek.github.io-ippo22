@@ -22,7 +22,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.7",
     "siteFonts": [],
-    "uniqCompNum": 12,
+    "uniqCompNum": 15,
     "versionPublish": "4.8.7",
     "screenshot": "screenshot.png"
   },
@@ -302,18 +302,18 @@
               "src": "@THEME_PATH@/components/_images/image2.jpg"
             },
             "video": {
-              "src": "https://youtu.be/uu8KgwQAiRA",
+              "src": "https://www.youtube.com/embed/uu8KgwQAiRA",
               "autoplay": false,
               "loop": false,
               "active": true
             }
           },
-          "text": "Развитие иппотерапии и адаптивного конного спорта в Актобе",
+          "text": "Центр иппотерапии и адаптивной конной терапии в Актобе",
           "_tags": [
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-b"
+          "_anchor": "image2-e"
         },
         {
           "_styles": {
