@@ -100,10 +100,10 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/meyx.4ix3jet-223x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/zhas-bala-logo-213x128.png",
               "height": 128,
-              "alt": "Ippoterapia",
-              "link": "https://ippoterapia.kz",
+              "alt": "Жас бала",
+              "link": "http://ippoterapia.kz",
               "title": "",
               "linkInNewWindow": false
             }
