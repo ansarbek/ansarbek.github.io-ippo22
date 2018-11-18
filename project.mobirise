@@ -387,7 +387,7 @@
           "text": "Будем рады сотрудничеству!\n<br>Нам очень важны ваши комментарии, пожелания и заметки об ошибках.",
           "title1": "<span class=\"etl-icon icon-map-pin mbr-iconfont mbr-iconfont-btn\"></span>Адрес",
           "title2": "<span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\"></span>e-mail",
-          "title3": "Телефон",
+          "title3": "<span class=\"mbri-mobile mbr-iconfont mbr-iconfont-btn\"></span>Телефон",
           "text1": "Крытый манеж при городском ипподроме (ДЮСШ № 10), Актобе, Казахстан",
           "text2": "<a href=\"mailto:aqtobe@ippoterapia.kz\">aqtobe@ippoterapia.kz</a>",
           "text3": "<a href=\"tel:+77478693645\">+77478693645</a>",
